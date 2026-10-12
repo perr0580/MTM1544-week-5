@@ -1,3 +1,33 @@
 /* MTM1544 Week 1: your stylesheet.
    This file is already linked from index.html. Write your rules below.
    Start by changing the body background colour and saving, to confirm the link works. */
+header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.site-name {
+   font-size: 1.5rem;
+   color: #333;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+nav {
+   display: flex;
+   gap: 1.5rem;
+}
+
+nav a {
+   text-decoration: none;
+   color: #333;
+}
+nav a:hover {
+   color: #0077cc;
+}
+nav a:focus {
+   color: #0077cc;
+   outline: 2px solid #0077cc;
+   outline-offset: 4px;
+}
