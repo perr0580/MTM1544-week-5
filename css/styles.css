@@ -31,3 +31,28 @@ nav a:focus {
    outline: 2px solid #0077cc;
    outline-offset: 4px;
 }
+
+
+.trail-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.card {
+  flex: 1 1 220px;
+  padding: 1.5rem;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+}
+/* At 1143px the cards start to stack and the layout changes */
+
+
+.welcome-banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  border-radius: 8px;
+  background-color: #e8eee5;
+}
