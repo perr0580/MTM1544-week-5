@@ -1,6 +1,6 @@
 # MTM1544 Week 1 Starter: Mountain Trail Guide
 
-The starting point for **Week 1 Assignment: Styling the Starter Page** in MTM1544 (Web Styles).
+I have not completed the week 5 assignment from MTM1511 so I'm doing it based on the week 1 starter page.
 
 ## What to do
 
